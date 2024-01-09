@@ -10,7 +10,4 @@ def count_down():
     for number in range(10):
         print(countdown)
         countdown = countdown - 1
-
     return 'hi'
-
-print(count_down())
